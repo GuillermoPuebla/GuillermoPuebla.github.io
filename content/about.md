@@ -11,7 +11,7 @@ Furthermore, I’m a research associate at the University of Bristol where I stu
 
 I have a longstanding interest in the psychology of concepts. In collaboration with [Sergio Chaigneau](http://cscn.uai.cl/equipo/sergio-chaigneau/) I conduct research on artifact concepts and the influence of causal knowledge on categorization.
 
-## Research Interest
+## Research Interests
 
 * Relational reasoning in people and neural networks.
 * Relational reinforcement learning.
